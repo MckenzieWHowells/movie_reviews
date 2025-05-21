@@ -1,0 +1,12 @@
+{
+    title: 'the_witch',
+    year: 2015,
+    director: 'Robert Eggers',
+    actors: [
+        'Anya Taylor-Joy',
+        'Ralph Ineson',
+        'Kate Dickie'
+    ],
+    genre: 'Horror',
+    rating: 6.8
+}
