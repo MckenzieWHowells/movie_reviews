@@ -1,0 +1,12 @@
+{
+    title: 'butch_cassidy_and_the_sundance_kid',
+    year: 1969,
+    director: 'George Roy Hill',
+    actors: [
+        'Paul Newman',
+        'Robert Redford',
+        'Katharine Ross'
+    ],
+    genre: 'Western',
+    rating: 8.0
+}
